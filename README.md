@@ -43,6 +43,6 @@ It can process images and videos to identify objects, faces, or even the handwri
 # 5. Storing the detected person name and the time in the Attendance.csv file
   Store the name and what time the person is detected in a CSV file named Attendance.csv.
 
-# Technology used
+# Technologies used
 1. Python 
 2. Machine Learning
