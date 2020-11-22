@@ -14,7 +14,7 @@ Today, it’s used in a variety of ways from allowing you to unlock your phone, 
 OpenCV is a huge open-source library for computer vision, machine learning, and image processing. 
 It can process images and videos to identify objects, faces, or even the handwriting of a human.
 
-# Steps are used in this project.
+# Steps used in this project.
 1. Finding all the Faces
 2. Posing and Projecting Faces
 3. Encoding Faces
