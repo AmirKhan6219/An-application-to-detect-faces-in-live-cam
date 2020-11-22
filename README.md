@@ -7,7 +7,7 @@ Today, it’s used in a variety of ways from allowing you to unlock your phone, 
 
 # Libraries
 1. OpenCV
-2. face-recognition
+2. face-recognition-models
 3. numpy
 4. dlib
 
