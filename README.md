@@ -34,11 +34,14 @@ It can process images and videos to identify objects, faces, or even the handwri
      Draw the rectangle on the detected face.
 
 # 3. Encode Face
-     For face recognition, the algorithm notes certain important measurements on the face like the color and size and slant of eyes, 
-     the gap between eyebrows, etc. All these put together define the face encoding the information obtained out of the image that is used to identify the particular face.
+     For face recognition, the algorithm notes certain important measurements on 
+     the face like the color and size and slant of eyes, the gap between eyebrows, etc. 
+     All these put together define the face encoding the information obtained out of the
+     image that is used to identify the particular face.
 
 # 4. Finding the person name  the
-     Obtaining the name of the person after successfully performing the encoding and finding the shortest distance between the actual image and detected images.
+     Obtaining the name of the person after successfully performing the encoding and
+     finding the shortest distance between the actual image and detected images.
 
 # 5. Storing the detected person name and the time in the Attendance.csv file
      Store the name and what time the person is detected in a CSV file named Attendance.csv.
