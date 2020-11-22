@@ -6,17 +6,22 @@
 
 Today, it’s used in a variety of ways from allowing you to unlock our phone, go through security at the airport, purchase products at stores, etc.
 
-# OpenCV
-The project is implemented using opencv python library.
+# Libraries
+1. opencv
+2. face-recognition
+3. numpy
+4. dlib
 
-OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
-OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. 
-It can process images and videos to identify objects, faces, or even the handwriting of a human.
 
-# Face Recognition — Step by Step
+1. OpenCv is a huge open-source library for computer vision, machine learning, and image processing. 
+2. It can process images and videos to identify objects, faces, or even the handwriting of a human.
 
-# Step 1: Finding all the Faces
-Find all the list of faces. Goal is to figure out how dark the current pixel is compared to the pixels directly surrounding it.
-Repeat that process for every single pixel in the image, you end up with every pixel being replaced by an arrow. These arrows are called gradients and they show the flow from light to dark across the entire image.
+# Steps are used in this project.
+1: Finding all the Faces
+2: Posing and Projecting Faces
+3: Encoding Faces
+4: Finding the person’s name from the encoding
 
-To find faces in this HOG (A method invented in 2005 called Histogram of Oriented Gradients — or just HOG for short) image, all we have to do is find the part of our image that looks the most similar to a known HOG pattern that was extracted from a bunch of other training faces
+# Technology used
+1. Python 
+2. Machine Learning
