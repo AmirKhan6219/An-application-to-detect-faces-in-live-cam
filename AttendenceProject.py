@@ -70,7 +70,7 @@ while True:
         #Write the Name of the person based on the matchIndex
         if matches[matchIndex]:
             name= classNames[matchIndex].upper()
-            #print(name)
+            print(name)
             y1, x2, y2, x1= faceLoc  # assign the variable
             y1, x2, y2, x1= y1*4, x2*4, y2*4, x1*4  #Regain the actual value again which was reduced 1/4th size of the image
 
