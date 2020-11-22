@@ -25,8 +25,8 @@ It can process images and videos to identify objects, faces, or even the handwri
   Find all the list of faces.
   There are two file
   1. Images (It contains 3 images, one is Virat Kohli and the other two are of Mahendra Singh Dhoni).
-  A) "MSDhoniTest" named image is used for Testing and
-  B) "ViratKohli" and "MSDhoni" is used for Training the image.
+  A) "MSDhoniTest" and "ViratKohli" named image is used for Testing, and
+  B) "MSDhoni" is used for Training the image.
   
   2. ImagesAttendance (It contain 5 images named: "Harbhajan Singh", "Mark Zuckerberg", "MSDhoni", "Virat Kohli", and "You(me)")
 
