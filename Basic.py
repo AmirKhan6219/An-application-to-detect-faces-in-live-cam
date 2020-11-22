@@ -12,13 +12,13 @@ import numpy as np
 import face_recognition
 
 # A function to load Train Images
-imgMSDhoni= face_recognition.load_image_file('Images/2)MSDhoni.jpg')
+imgMSDhoni= face_recognition.load_image_file('Images/MSDhoni.jpg')
 
 #Covert the image into RGB
 imgMSDhoni= cv2.cvtColor(imgMSDhoni, cv2.COLOR_BGR2RGB)
 
 # A function to load Test Images
-imgTest= face_recognition.load_image_file('Images/3)MSDhoniTest.jpg')
+imgTest= face_recognition.load_image_file('Images/MSDhoniTest.jpg')
 
 #Covert the image into RGB
 imgTest= cv2.cvtColor(imgTest, cv2.COLOR_BGR2RGB)
