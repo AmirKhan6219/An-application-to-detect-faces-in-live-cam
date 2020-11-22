@@ -19,7 +19,7 @@ It can process images and videos to identify objects, faces, or even the handwri
 2. Posing and Projecting Faces
 3. Encoding Faces
 4. Finding the person’s name from the encoding
-5. Storing the detected person's name and the time when faces was detected in Attendance.csv file.
+5. Storing the detected person's name and the time in Attendance.csv file.
 
 # Technology used
 1. Python 
