@@ -17,10 +17,10 @@ OpenCv is a huge open-source library for computer vision, machine learning, and 
 It can process images and videos to identify objects, faces, or even the handwriting of a human.
 
 # Steps are used in this project.
-1: Finding all the Faces
-2: Posing and Projecting Faces
-3: Encoding Faces
-4: Finding the person’s name from the encoding
+1. Finding all the Faces
+2. Posing and Projecting Faces
+3. Encoding Faces
+4. Finding the person’s name from the encoding
 
 # Technology used
 1. Python 
