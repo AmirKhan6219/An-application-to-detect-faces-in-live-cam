@@ -43,8 +43,7 @@ It can process images and videos to identify objects, faces, or even the handwri
      Obtaining the name of the person after successfully performing the encoding and
      finding the shortest distance between the actual image and detected images.
 
-# 5. Storing the detected person name and the time in 
-#    the Attendance.csv file
+# 5. Storing the detected person name and the time in the Attendance.csv file
      Store the name and what time the person is detected in a CSV file named Attendance.csv.
 
 # Technologies used
