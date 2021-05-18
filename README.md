@@ -48,4 +48,4 @@ It can process images and videos to identify objects, faces, or even the handwri
 
 # Technologies used
   1. Python 
-  2. Machine Learning
+  2. OpenCV
